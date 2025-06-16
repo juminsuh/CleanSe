@@ -1,7 +1,8 @@
 ## 🧼 cleanse
 
 Accepted to ACL 2025 GEM workshop (poster)
-![Image](https://github.com/user-attachments/assets/95ab8c40-4cce-4531-ac4c-c37d6808e47a)
+
+![Image](https://github.com/user-attachments/assets/a22e55a4-2df1-4144-af1b-f4ed0f9e5b6a)
 
 ### Abstract
 
