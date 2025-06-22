@@ -2,7 +2,7 @@
 
 Accepted to ACL 2025 GEM workshop (poster)
 
-![Image](https://github.com/user-attachments/assets/a22e55a4-2df1-4144-af1b-f4ed0f9e5b6a)
+![Image](https://github.com/user-attachments/assets/d8d6e3b2-ee89-4119-b2f9-fc9859cf1c46)
 
 ### Abstract
 
