@@ -1,6 +1,6 @@
-## 🧼 cleanse
+## 🧼 Cleanse
 
-Accepted to ACL 2025 GEM workshop (poster)
+Accepted to ACL 2025 GEM workshop (poster & oral)
 
 ![Image](https://github.com/user-attachments/assets/d8d6e3b2-ee89-4119-b2f9-fc9859cf1c46)
 
